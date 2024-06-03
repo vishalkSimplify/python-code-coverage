@@ -100,5 +100,3 @@ By following these steps, we achieved comprehensive code coverage and ensured hi
    
 This document should help you and your team understand the process of achieving comprehensive code coverage and maintaining code quality. If you have any further questions or need additional assistance, feel free to ask!  
 ```  
-   
-You can copy and paste this Markdown content into a `.md` file. This format will render nicely on platforms that support Markdown, such as GitHub, GitLab, or any Markdown editor.
